@@ -1,0 +1,2 @@
+====================What is Waterfall model=======================
+In a waterfall model, each phase must be completed fully before the next phase can begin. 
