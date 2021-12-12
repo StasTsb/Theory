@@ -1,9 +1,19 @@
 ====================What is Waterfall model=======================
 In a waterfall model, each phase must be completed fully before the next phase can begin. 
 
-At the end of each phase, a review takes place to determine if the project is on the right path 
-and whether or not to continue or discard the project.
-
+Diagram of Waterfall model
+------------------------
+Requirement gathering  |
+and Analysis           |   -----------------
+-------------------------> | System Design |   -----------------
+                           ------------------> | Implementation |  
+                                               ------------------> -----------
+                                                                   | Testing |
+                                                                   ------------> -----------------------
+                                                                                 | Deployment of System |
+                                                                                 ------------------------> --------------
+                                                                                                           | Maitenance |
+                                                                                                           --------------                                                                                                                                 
 Requirements Gathering and Analysis
 In this phase the requirements are gathered by the business analyst and they are analyzed by the team. 
 Requirements are documented during this phase and clarifications can be sought.
