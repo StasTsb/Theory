@@ -20,14 +20,17 @@ Developers Life Cycle                                      Tester Life Cycle
               | High LVL    |                | System integration |
               | design      |                |     testing        |
               ---------------                ----------------------
-                      V                          V
+                       V                          V
                   --------------             --------------
                   | Low LVL    |             |  Component |
                   | design     |             |   testing  |
                   --------------             --------------
-                          V                      V
+                           V                     V
                      --------------        -------------
                      |   Coding   |        |  Unit     |
                      |   design   |        |  testing  |
                      --------------        -------------
-                            V                   V
+                               V             V
+                           -----------------------
+                           |         CODE        |
+                           -----------------------
