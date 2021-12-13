@@ -1,1 +1,33 @@
-http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/
+The V-Shaped life cycle is a sequential path of execution of processes. 
+Each phase must be completed before the next phase begins.
+
+Testing of the product is planned in parallel with a corresponding 
+phase of development in V-model.
+
+Developers Life Cycle                                      Tester Life Cycle
+(Verification phase)                                       (Validation phase)
+---------------------                                   ------------------------
+| Busines req       |                                   |     Acceptance       |
+| specifications    |                                   |      testing         |
+---------------------                                   ------------------------
+        V                                                           V
+       ---------------------                     ------------------------
+       | System req        |                     |     System           |
+       | specifications    |                     |     testing          |
+       ---------------------                     ------------------------
+                  V                                   V
+              ---------------                ----------------------
+              | High LVL    |                | System integration |
+              | design      |                |     testing        |
+              ---------------                ----------------------
+                      V                          V
+                  --------------             --------------
+                  | Low LVL    |             |  Component |
+                  | design     |             |   testing  |
+                  --------------             --------------
+                          V                      V
+                   --------------          -------------
+                   |   Coding   |          |  Unit     |
+                   |   design   |          |  testing  |
+                   --------------          -------------
+                          V                      V
