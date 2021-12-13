@@ -34,3 +34,12 @@ Developers Life Cycle                                      Tester Life Cycle
                            -----------------------
                            |         CODE        |
                            -----------------------
+                           
+Requirements like BRS and SRS begin the life cycle model just like the waterfall model. 
+But, in this model before development is started, a system test plan is created.  
+The test plan focuses on meeting the functionality specified in the requirements gathering.
+
+The high-level design (HLD) phase focuses on system architecture and design. 
+It provide overview of solution, platform, system, product and service/process. 
+An integration test plan is created in this phase as well in order to test the pieces 
+of the software systems ability to work together.
