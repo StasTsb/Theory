@@ -26,8 +26,8 @@ Developers Life Cycle                                      Tester Life Cycle
                   | design     |             |   testing  |
                   --------------             --------------
                           V                      V
-                   --------------          -------------
-                   |   Coding   |          |  Unit     |
-                   |   design   |          |  testing  |
-                   --------------          -------------
-                          V                      V
+                     --------------        -------------
+                     |   Coding   |        |  Unit     |
+                     |   design   |        |  testing  |
+                     --------------        -------------
+                            V                   V
