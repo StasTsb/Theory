@@ -43,3 +43,15 @@ The high-level design (HLD) phase focuses on system architecture and design.
 It provide overview of solution, platform, system, product and service/process. 
 An integration test plan is created in this phase as well in order to test the pieces 
 of the software systems ability to work together.
+
+The low-level design (LLD) phase is where the actual software components are designed. 
+It defines the actual logic for each and every component of the system. Class diagram 
+with all the methods and relation between classes comes under LLD. Component tests 
+are created in this phase as well.
+
+The implementation phase is, again, where all coding takes place. Once coding is complete, 
+the path of execution continues up the right side of the V where the test plans developed 
+earlier are now put to use.
+
+Coding: This is at the bottom of the V-Shape model. Module design is converted into code 
+by developers. Unit Testing is performed by the developers on the code written by them.
