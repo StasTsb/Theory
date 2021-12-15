@@ -1,0 +1,9 @@
+Agile software development methodology is 
+an process for developing software (like 
+other software development methodologies 
+– Waterfall model, V-Model, Iterative model 
+etc.) However, Agile methodology differs 
+significantly from other methodologies. In English, 
+Agile means ‘ability to move quickly and easily’ 
+and responding swiftly to change – this is a key 
+aspect of Agile software development as well.
