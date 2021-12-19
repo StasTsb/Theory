@@ -14,3 +14,13 @@ software quality is maintained. It is used for time critical applications.
               -------------------                       -------------------                       -------------------        
               |    Deployment   |                       |    Deployment   |                       |    Deployment   |
               -------------------                       -------------------                       -------------------
+              
+>Customer satisfaction by rapid, continuous delivery of useful software.
+>People and interactions are emphasized rather than process and tools. Customers, 
+developers and testers constantly interact with each other.
+>Working software is delivered frequently (weeks rather than months).
+>Face-to-face conversation is the best form of communication.
+>Close, daily cooperation between business people and developers.
+>Continuous attention to technical excellence and good design.
+>Regular adaptation to changing circumstances.
+>Even late changes in requirements are welcomed
